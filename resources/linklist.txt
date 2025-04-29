@@ -1,0 +1,5 @@
+email: elisabete.f.farinha@gmail.com
+website: https://elliecreativesolutions.wordpress.com/
+linkedin: https://www.linkedin.com/in/elisabete-f/
+instagram: https://www.instagram.com/ellie_creative_solutions/
+github: https://github.com/Ellie-Yeah
