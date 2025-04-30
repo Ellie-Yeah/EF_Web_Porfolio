@@ -107,7 +107,11 @@ header {
     grid-template-areas:
         "1 2";
     justify-self: stretch;
+    align-self: center;
     padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    margin-top: 35px;
+    height: fit-content;
 }
 
 .my_logo {
@@ -166,7 +170,7 @@ a:hover {
 main {
     grid-row: main;
     display: grid;
-    padding: 2rem;
+    padding: 2em;
     grid-template-columns: 1fr 1fr;
     grid-template-areas:
         "1 2";
@@ -265,6 +269,7 @@ footer {
     .navbar .links {
         font-size: 0.8rem;
         width: fit-content;
+        height: fit-content;
     }
 
 
@@ -273,7 +278,7 @@ footer {
         display: grid;
         padding: 5rem;
         grid-template-columns: auto;
-        grid-template-rows: 1fr;
+        grid-template-rows: 1fr 1fr;
         grid-template-areas:
             "1" 
             "2";
